@@ -10,7 +10,5 @@ The analysis is broken up into 3 sections:
 
 The datasets can be found on <a href="https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data">https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data</a>.
 
-### Resources
-- Kaggle : https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
 
 
