@@ -1,6 +1,6 @@
-# Uber_data_analysis
+# Uber data analysis
 This project consists of two notebooks
-## Uber Basic Data Analysis
+## Uber Data Analysis using python
 
 This notebook contains a basic analysis through some visualizations of the Uber Pickups in New York City data set using Python.
 
@@ -15,7 +15,7 @@ Example of some visualization
 ![image](https://user-images.githubusercontent.com/56463608/129935155-6698bc39-5901-48c2-a1d7-56de4bd5731b.png)
 
 ## Uber Data Analysis using Heatmaps and Spatial Visualization
-This notebook is a continuation of the " Uber Basic Data Analysis " notebook. 
+This notebook is a continuation of the " Uber Data Analysis using python" notebook. 
 
 It contains more in depth visualizations ( Heatmaps, spatial visualizations and animation ) of the Uber Pickups in New York City data set.
 
